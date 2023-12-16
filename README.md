@@ -1,7 +1,7 @@
-![Header](./Len_and_rin.jpg)
+
 <h1 align="center">Hi 👋, Nice too meet you I'm Muhammad Aditya Yusuf </h1>
 <h3 align="center">A passionate Software Engineer, and Junior Programmer In Indonesia</h3>
-<img align="center" link="./Len_and_rin.jpg">
+<img align="center" src="./Len_and_rin.jpg">
 
 - 🔭 I’m currently a college student in **Bina Insani University**
 
