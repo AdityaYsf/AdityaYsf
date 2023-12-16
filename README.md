@@ -13,7 +13,7 @@
 
 - ⚡ Fun fact **I can play baseball**
 
-<iframe src="https://giphy.com/embed/wT8WX0AcRuyk8FfvYS" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen allign="left"></iframe><p><a href="https://giphy.com/gifs/GitHub-squirrel-ship-it-shipit-wT8WX0AcRuyk8FfvYS">via GIPHY</a></p>
+<iframe src="https://giphy.com/embed/wT8WX0AcRuyk8FfvYS" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/GitHub-squirrel-ship-it-shipit-wT8WX0AcRuyk8FfvYS">via GIPHY</a></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
