@@ -1,4 +1,4 @@
-<!-- ![Header](./Len_and_rin.jpg) -->
+![Header](<iframe src="https://assets.pinterest.com/ext/embed.html?id=365002744810242845" height="295" width="345" frameborder="0" scrolling="no" ></iframe>)
 <h1 align="center">Hi 👋, Nice too meet you I'm Muhammad Aditya Yusuf </h1>
 <h3 align="center">A passionate Software Engineer, and Junior Programmer In Indonesia</h3>
 <p align="center"><img align="center" src="./Len_and_rin.jpg"></p>
@@ -12,8 +12,6 @@
 - 📫 You can contact me **muhammadadityayusuf12@gmail.com**
 
 - ⚡ Fun fact **I can play baseball**
-
-<iframe src="https://giphy.com/embed/wT8WX0AcRuyk8FfvYS" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/GitHub-squirrel-ship-it-shipit-wT8WX0AcRuyk8FfvYS">via GIPHY</a></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
