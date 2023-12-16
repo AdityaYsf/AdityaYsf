@@ -1,4 +1,4 @@
-![AdityaYsf's GitHub Banner](https://media.licdn.com/dms/image/D5616AQGgVHn6fZeFFQ/profile-displaybackgroundimage-shrink_350_1400/0/1673892485014?e=1684368000&v=beta&t=A3vj-aw2ySqPh3QaTaCXIAx77Bicww4-JYhihj8f7Pc)
+![Header](./github-header-image.png)
 <h1 align="center">Hi 👋, Nice too meet you I'm Muhammad Aditya Yusuf</h1>
 <h3 align="center">A passionate Software Engineer, and Junior Programmer In Indonesia</h3>
 
