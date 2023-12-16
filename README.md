@@ -3,6 +3,8 @@
 <h3 align="center">A passionate Software Engineer, and Junior Programmer In Indonesia</h3>
 <p align="center"><img align="center" src="./Len_and_rin.jpg"></p>
 
+<img align="right" width="400" src="https://i.pinimg.com/originals/0f/1b/a3/0f1ba3323de4711a314119a80205c0bf.gif">
+
 - 🔭 I’m currently a college student in **Bina Insani University**
 
 - 🌱 I’m currently learning **Frameworks, and websites**
