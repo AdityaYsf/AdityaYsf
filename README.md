@@ -1,4 +1,4 @@
-![Header](./github-header-image.png)
+![Header](./Len_and_rin.png)
 <h1 align="center">Hi 👋, Nice too meet you I'm Muhammad Aditya Yusuf</h1>
 <h3 align="center">A passionate Software Engineer, and Junior Programmer In Indonesia</h3>
 
