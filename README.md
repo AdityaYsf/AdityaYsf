@@ -1,5 +1,6 @@
 ![Header](./Len_and_rin.jpg)
-<h1 align="center">Hi 👋, Nice too meet you \n I'm Muhammad Aditya Yusuf</h1>
+<h1 align="center">Hi 👋, Nice too meet you </h1>
+<h1 align="center">I'm Muhammad Aditya Yusuf</h1>
 <h3 align="center">A passionate Software Engineer, and Junior Programmer In Indonesia</h3>
 
 - 🔭 I’m currently a college student in **Bina Insani University**
