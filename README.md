@@ -1,6 +1,6 @@
 <!--![Header](https://i.pinimg.com/originals/0f/1b/a3/0f1ba3323de4711a314119a80205c0bf.gif)-->
 <p align="center"><img align="center" src="./Len_and_rin.jpg"></p>
-<h1 align="center">Hi 👋, Nice too meet you Velicius Andreanus </h1>
+<h1 align="center">Hi 👋, Nice too meet you </h1>
 <h3 align="center">A passionate Software Engineer, and Junior Programmer In Indonesia</h3>
 
 <img align="right" width="400" src="https://i.pinimg.com/originals/0f/1b/a3/0f1ba3323de4711a314119a80205c0bf.gif">
