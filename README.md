@@ -7,8 +7,6 @@
 
 - 🔭 I’m currently a college student in **Bina Insani University**
 
-- 🌱 I’m currently learning **Frameworks, and websites**
-
 - 💬 Ask me about **anything**
 
 - 📫 You can contact me **muhammadadityayusuf12@gmail.com**
